@@ -2,3 +2,4 @@ python-telegram-bot>=21.0
 selenium>=4.22.0
 undetected-chromedriver>=3.5.5
 urllib3>=2.2.2
+speedtest-cli>=2.1.3
